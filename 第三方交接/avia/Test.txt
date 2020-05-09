@@ -1,0 +1,33 @@
+1: /api/user/register
+	user/pwd	: admin/a123456
+	response:
+		{
+			success: 1,
+			msg: "注册成功"
+		}
+2:登陆
+	/api/user/login
+	user:admin
+	{
+		success: 1,
+		msg: "登入成功",
+		info: {
+		Url: https://xhyl.avia-gaming.vip/start.html?api=s01.avia-gaming.vip&token=b5e53f3e78cf42e8802cd07091992a00&language=CHN
+		}
+	}
+3:转账
+	admin
+	gold:20
+	orderId:1588523409146
+	response:
+	{
+		success: 1,
+		msg: "转账成功",
+		info: {
+		ID: "96733",
+		OrderID: "1588523409146",
+		Currency: "CNY",
+		Balance: "20.00",
+		Credit: "20.00000000"
+		}
+	}

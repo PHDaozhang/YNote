@@ -1,0 +1,47 @@
+{
+success: 1,
+msg: "3ms",
+info: {
+RecordCount: 1,
+PageIndex: 1,
+PageSize: 20,
+data: null,
+list: [
+{
+OrderID: "22335",
+UserName: "admin",
+CateID: "2040",
+Category: "王者荣耀",
+LeagueID: "43",
+League: "2020 KPL 春季赛",
+MatchID: "615",
+Match: "ROX Phoenix VS DYG",
+BetID: "13538",
+Bet: "比赛获胜",
+Content: "ROX",
+Result: "",
+BetAmount: "10.0000",
+BetMoney: "0.0000",
+Money: "0.0000",
+Status: "None",
+CreateAt: "2020/5/4 0:33:09",
+UpdateAt: "2020/5/4 0:33:10",
+StartAt: "2020/5/2 0:00:00",
+EndAt: "2020/5/31 0:00:00",
+ResultAt: "1900/1/1 0:00:00",
+RewardAt: "1900/1/1 0:00:00",
+OddsType: "EU",
+Odds: "1.8975",
+IP: "121.224.111.30",
+Language: "CHN",
+Platform: [
+"PC",
+"Windows"
+],
+Type: "Single",
+ReSettlement: 0,
+IsTest: 0
+}
+]
+}
+}

@@ -1,0 +1,51 @@
+#客户端
+
+
+
+#服务器
+
+
+
+#运维
+
+研发服jenkins	
+http://18.140.231.140:8080/login?from=%2F
+admin/admin@wsx
+
+
+#研发服后台
+https://www.ahfdcw.com/login?redirect=%2FgameManage%2FsonGameManage
+https://www.ahfdcw.com/dashboard/index
+ike_wong/123456
+
+
+#QA 后台
+https://www.tiantianypt.com/login?redirect=%2FoperationalManage%2FplayerList
+hua2020/123456
+
+
+//资源svn
+http://218.81.57.165:8001/svn/Resource
+地址变为：218.79.16.94
+
+海外神道
+http://52.197.255.220/zentao/user-login-L3plbnRhby9idWctYnJvd3NlLTEtMC1hc3NpZ250b21lLmh0bWw=.html
+daozhang/Czh12345
+
+
+
+
+vpn:
+
+1:联内网vpn
+Server IP: 18.140.131.16
+IPsec PSK: 2zJ6SYAyPDGkgWu9
+Username: vpnuser
+Password: LWcSaXF8zzAS3LD2
+
+
+新的vpn
+Server IP: 124.156.172.204
+IPsec PSK: LXsnVtrbkCKTLaCT
+Username: vpnuser
+Password: bH325hH4q9eKkSaB
