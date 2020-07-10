@@ -1,0 +1,6 @@
+云平台登录：https://cloud.gametech111.com   test001 123456
+云管理平台登录：https://manage.gametech111.com root 123456
+
+
+
+{"all":"resource2","hall":"hall19"}
