@@ -1,0 +1,52 @@
+html:https://www.nbgametech.com/indexAPIYY.html
+
+api:api.nbgametech.com
+
+皮肤：nover_login_bgYY
+大厅：hall20
+
+
+代理ID：1
+渠道ID：238900_1
+用途：我方测试用
+
+
+
+代理ID：2
+渠道ID：603715_1
+用途：正式用
+
+
+代理ID：3
+渠道ID：292379_1
+用途：测试用
+
+
+
+
+db.AgentInfo.update({}, {
+    $set: {
+        "Res":{"login":"nover_login_bgYY","hall":"hall20"}
+    },
+	{multi:true}
+})
+
+
+
+
+
+
+代理ID：1
+渠道ID：238900_1
+用途：我方测试用
+
+
+
+代理ID：2
+渠道ID：603715_1
+用途：正式用
+
+
+代理ID：3
+渠道ID：292379_1
+用途：测试用

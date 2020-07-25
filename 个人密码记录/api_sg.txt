@@ -1,0 +1,33 @@
+云平台登录：https://cloud.gametech111.com   test001 123456
+云管理平台登录：https://manage.gametech111.com root 123456
+
+
+测试环境
+KY_API_DOMAIN='http://api.gametech111.com'
+KY_CHANNEL_ID = '80606_10'  
+KY_AGENT_ID = '1'   
+KY_SECRET_KEY = 'SecKey'
+
+生产环境
+KY_API_DOMAIN='http://api.gametech111.com'
+KY_CHANNEL_ID = '51816_1'  
+KY_AGENT_ID = '2'   
+KY_SECRET_KEY = '6ToBRM1uKHJnXRVI'
+
+
+QA测试环境
+KY_API_DOMAIN='http://api.gametech111.com'
+KY_CHANNEL_ID = '31261_1'  
+KY_AGENT_ID = '3'   
+KY_SECRET_KEY = 'E6g21ClRCnA0vXvL'
+
+
+
+db.AgentInfo.update({}, {
+    $set: {
+        "Res":{"login":"nover_login_bgSG","hall":"hall19","all" : "resource2"}
+    },
+	{multi:true}
+})
+
+

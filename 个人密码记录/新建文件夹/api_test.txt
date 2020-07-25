@@ -1,0 +1,266 @@
+
+api:https://api.gametech222.com/
+
+别称：SG 
+代理ID：3
+渠道ID：973606_1
+
+
+
+	"Res" : {
+		"all" : "resource2",
+		"hall" : "hall19",
+		"login" : "nover_login_bg"
+	}
+
+
+别称：云游YY
+代理ID：4
+渠道ID：467934_1
+
+
+"Res" : {
+		"login" : "nover_login_bgYY",
+		"hall" : "hall20"
+	}
+
+
+
+
+
+
+
+db.AgentInfo.update({ AgentId:4,ChannelId:"467934_1" }, {
+    $set: {
+        "Res":{"login":"nover_login_bgYY"}
+    }
+})
+
+
+
+{
+	"_id" : ObjectId("5f0d2a8fb0a703fc87c5c506"),
+	"ChannelId" : "467934_1",
+	"AgentId" : NumberInt("4"),
+	"AgentName" : "",
+	"GameInfos" : [
+		{
+			"GameId" : NumberInt("5"),
+			"Sort" : NumberInt("0"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("67"),
+			"Sort" : NumberInt("1"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("17"),
+			"Sort" : NumberInt("2"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("27"),
+			"Sort" : NumberInt("3"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("4"),
+			"Sort" : NumberInt("4"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("30"),
+			"Sort" : NumberInt("5"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("26"),
+			"Sort" : NumberInt("6"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("32"),
+			"Sort" : NumberInt("7"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("40"),
+			"Sort" : NumberInt("8"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("12"),
+			"Sort" : NumberInt("9"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("31"),
+			"Sort" : NumberInt("10"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("41"),
+			"Sort" : NumberInt("11"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("21"),
+			"Sort" : NumberInt("12"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("71"),
+			"Sort" : NumberInt("13"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("33"),
+			"Sort" : NumberInt("14"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("42"),
+			"Sort" : NumberInt("15"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("20"),
+			"Sort" : NumberInt("16"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("10"),
+			"Sort" : NumberInt("17"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("16"),
+			"Sort" : NumberInt("18"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("3"),
+			"Sort" : NumberInt("19"),
+			"IsHot" : NumberInt("0")
+		}
+	],
+	"Index" : "indexAPIYY.html",
+	"Res" : {
+		"login" : "nover_login_bgYY",
+		"hall" : "hall20"
+	}
+},
+{
+	"_id" : ObjectId("5f0bf950b0a703fc87fc025c"),
+	"ChannelId" : "973606_1",
+	"AgentId" : NumberInt("3"),
+	"AgentName" : "",
+	"GameInfos" : [
+		{
+			"GameId" : NumberInt("5"),
+			"Sort" : NumberInt("0"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("67"),
+			"Sort" : NumberInt("1"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("17"),
+			"Sort" : NumberInt("2"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("27"),
+			"Sort" : NumberInt("3"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("4"),
+			"Sort" : NumberInt("4"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("30"),
+			"Sort" : NumberInt("5"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("26"),
+			"Sort" : NumberInt("6"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("32"),
+			"Sort" : NumberInt("7"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("40"),
+			"Sort" : NumberInt("8"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("12"),
+			"Sort" : NumberInt("9"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("31"),
+			"Sort" : NumberInt("10"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("41"),
+			"Sort" : NumberInt("11"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("21"),
+			"Sort" : NumberInt("12"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("71"),
+			"Sort" : NumberInt("13"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("33"),
+			"Sort" : NumberInt("14"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("42"),
+			"Sort" : NumberInt("15"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("20"),
+			"Sort" : NumberInt("16"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("10"),
+			"Sort" : NumberInt("17"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("16"),
+			"Sort" : NumberInt("18"),
+			"IsHot" : NumberInt("0")
+		},
+		{
+			"GameId" : NumberInt("3"),
+			"Sort" : NumberInt("19"),
+			"IsHot" : NumberInt("0")
+		}
+	],
+	"Res" : {
+		"all" : "resource2",
+		"hall" : "hall19",
+		"login" : "nover_login_bg"
+	}
+}
