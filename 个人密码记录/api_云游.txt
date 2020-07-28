@@ -1,6 +1,6 @@
 html:https://www.nbgametech.com/indexAPIYY.html
 
-api:api.nbgametech.com
+api:http://api.nbgametech.com/
 
 皮肤：nover_login_bgYY
 大厅：hall20
@@ -16,13 +16,13 @@ api:api.nbgametech.com
 代理ID：2
 渠道ID：603715_1
 密钥：Cl5nDDqsXf2YdEX2
-用途：正式用
+用途：泛亚正式用
 
 
 代理ID：3
 渠道ID：292379_1
 密钥：UZ90vBXGoMVsjnOW
-用途：测试用
+用途：泛亚测试用
 
 
 

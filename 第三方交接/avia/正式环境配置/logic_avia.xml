@@ -1,0 +1,36 @@
+﻿<root>
+  <monitor_ip>127.0.0.1</monitor_ip>
+  <monitor_port>11001</monitor_port>
+  <out_port>14091</out_port>
+  
+  <debug>1</debug>  
+ 
+	<!-- 游戏数据库 -->
+  <playerdb_url>127.0.0.1:27017</playerdb_url>
+  <playerdb_name>PlayerDB_DWC</playerdb_name>
+  <gamedb_url>127.0.0.1:27017</gamedb_url>
+  <gamedb_name>GameDB</gamedb_name>
+  <logdb_url>127.0.0.1:27017</logdb_url>
+  <logdb_name>LogDB_DWC</logdb_name>
+  
+  <configdb_url>127.0.0.1:27017</configdb_url>
+  <configdb_name>ConfigDB</configdb_name>
+
+  <game_dll>games/game_avia-gd.dll</game_dll>
+  <game_ver>1.0.0</game_ver> 
+
+    <pgdb_url>127.0.0.1</pgdb_url>
+  <pgdb_port>5432</pgdb_port>
+  <pgdb_user>postgres</pgdb_user>
+  <pgdb_pwd>123456</pgdb_pwd>
+  <pgdb_db_name>xh</pgdb_db_name>
+  
+  <!--向第三方发送信息-->
+  <!--<http_api>10.1.12.12:8080</http_api>-->
+  <!--<http_api>127.0.0.1:8080</http_api>-->
+  
+  <http_api>api.avia-gaming.com</http_api>
+  <http_api_test>api.avia-gaming.vip</http_api_test>
+
+  <http_port>17091</http_port>
+</root>
