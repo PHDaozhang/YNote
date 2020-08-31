@@ -1,156 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Root>
-	<Data Key="5" Name="百家乐" IsOpen="1" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="4" Name="百人牛牛" IsOpen="1" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="3" Name="欢乐骰子" IsOpen="1" ResType="3" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="1" Name="金蟾捕鱼" IsOpen="0" ResType="1" ControlType="0" GameType="3" PlatfromType="云棋牌" />
-	<Data Key="10" Name="黑红梅方" IsOpen="1" ResType="2" ControlType="1" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="14" Name="欢乐至尊" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="16" Name="斗地主" IsOpen="1" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="17" Name="炸金花" IsOpen="1" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="12" Name="金鲨银鲨" IsOpen="1" ResType="4" ControlType="1" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="18" Name="抢庄牛牛(换牌)" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="19" Name="红黑大战（旧）" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="20" Name="水果机" IsOpen="1" ResType="4" ControlType="3" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="21" Name="二人麻将" IsOpen="1" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="22" Name="水浒传" IsOpen="0" ResType="4" ControlType="2" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="24" Name="李逵劈鱼" IsOpen="0" ResType="1" ControlType="0" GameType="3" PlatfromType="云棋牌" />
-	<Data Key="25" Name="大闹天宫" IsOpen="0" ResType="1" ControlType="0" GameType="3" PlatfromType="云棋牌" />
-	<Data Key="27" Name="疯狂捕鱼" IsOpen="1" ResType="1" ControlType="0" GameType="3" PlatfromType="云棋牌" />
-	<Data Key="28" Name="血流麻将" IsOpen="0" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="29" Name="万人德州" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="30" Name="德州扑克" IsOpen="1" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="31" Name="二八杠" IsOpen="1" ResType="6" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="23" Name="奔驰宝马" IsOpen="0" ResType="4" ControlType="1" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="26" Name="森林舞会" IsOpen="1" ResType="4" ControlType="1" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="32" Name="龙虎斗" IsOpen="1" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="33" Name="一元夺宝" IsOpen="1" ResType="7" ControlType="2" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="35" Name="推筒子" IsOpen="0" ResType="6" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="34" Name="二人牛牛" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="37" Name="水果缤纷" IsOpen="0" ResType="4" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="38" Name="十三水" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="39" Name="四人牛牛" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="36" Name="通比牛牛" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="40" Name="红黑大战" IsOpen="1" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="42" Name="多福多财" IsOpen="1" ResType="4" ControlType="2" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="43" Name="豪车汇" IsOpen="0" ResType="4" ControlType="2" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="44" Name="荣耀王者" IsOpen="0" ResType="4" ControlType="2" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="46" Name="九线拉王" IsOpen="0" ResType="4" ControlType="2" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="52" Name="四色球" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="53" Name="豪车大亨" IsOpen="0" ResType="4" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="57" Name="英雄联盟时时彩" IsOpen="0" ResType="7" ControlType="1" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="58" Name="传奇电竞" IsOpen="0" ResType="8" ControlType="0" GameType="5" PlatfromType="体育竞彩" />
-	<Data Key="59" Name="斗牛" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="60" Name="世界体育" IsOpen="0" ResType="8" ControlType="0" GameType="5" PlatfromType="体育竞彩" />
-	<Data Key="63" Name="抢庄牛牛(看牌)" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="64" Name="德州牛仔" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="67" Name="抢庄牛牛" IsOpen="1" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="68" Name="抢庄炸金花" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="70" Name="真人视讯" IsOpen="0" ResType="8" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="701" Name="真人视讯(百家乐)" IsOpen="0" ResType="9" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="702" Name="真人视讯(龙虎)" IsOpen="0" ResType="9" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="703" Name="真人视讯(骰宝)" IsOpen="0" ResType="9" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="704" Name="真人视讯(轮盘)" IsOpen="0" ResType="9" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="705" Name="真人视讯(番摊)" IsOpen="0" ResType="9" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="706" Name="真人视讯(幸运轮)" IsOpen="0" ResType="9" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="72" Name="万条筒" IsOpen="0" ResType="5" ControlType="1" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="80" Name="老虎机" IsOpen="0" ResType="8" ControlType="0" GameType="7" PlatfromType="SP平台" />
-	<Data Key="73" Name="斗三公" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="74" Name="不洗牌斗地主" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="76" Name="幸运彩票" IsOpen="0" ResType="8" ControlType="0" GameType="5" PlatfromType="体育竞彩" />
-	<Data Key="61" Name="神兽之战" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="62" Name="百人三公" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="79" Name="龙虎猜和" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="81" Name="福星推筒子" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="82" Name="赌神推牌九" IsOpen="0" ResType="11" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="56" Name="一球成名" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="83" Name="鱼虾蟹" IsOpen="0" ResType="10" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="85" Name="幸运7" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="41" Name="轮盘" IsOpen="1" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="54" Name="AK轮盘" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="55" Name="幸运轮" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="71" Name="红包扫雷" IsOpen="1" ResType="7" ControlType="2" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="75" Name="牌九" IsOpen="0" ResType="11" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="101" Name="DOTA时时彩" IsOpen="0" ResType="7" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="144" Name="暴雪全家桶" IsOpen="0" ResType="7" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="98" Name="红包乱斗" IsOpen="0" ResType="7" ControlType="2" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="99" Name="加勒比海扑克" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="96" Name="王者时时彩" IsOpen="0" ResType="7" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="146" Name="三国时时彩" IsOpen="0" ResType="7" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="147" Name="水浒时时彩" IsOpen="0" ResType="7" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="8001" Name="(老虎机)屠龙英雄" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8002" Name="(老虎机)埃及夺金" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8003" Name="(老虎机)斯巴达之尊" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8004" Name="(老虎机)鱼虾蟹" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8005" Name="(老虎机)大三元" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8006" Name="(老虎机)三星报囍2" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8007" Name="(老虎机)六脉传说" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8008" Name="(老虎机)宙斯" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8009" Name="(老虎机)马雅秘宝" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8010" Name="(老虎机)幸运四叶草" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8011" Name="(老虎机)猪八戒" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8012" Name="(老虎机)财神到" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8013" Name="(老虎机)假面王子" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8014" Name="(老虎机)上海教父" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8015" Name="(老虎机)双囍" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8016" Name="(老虎机)世界杯狂热" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8017" Name="(老虎机)龙8" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8018" Name="(老虎机)运财童子" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8019" Name="(老虎机)鸿运金狮" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8020" Name="(老虎机)幸运发" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8021" Name="(老虎机)富贵7" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8022" Name="(老虎机)招财猫" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8023" Name="(老虎机)将圣" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8024" Name="(老虎机)摇钱树" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8025" Name="(老虎机)红楼春梦" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8026" Name="(老虎机)美女沙排" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8027" Name="(老虎机)丧尸猎人" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8028" Name="(老虎机)张保仔" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8029" Name="(老虎机)魔鬼天使" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8030" Name="(老虎机)运财金鸡" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8031" Name="(老虎机)济公" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8032" Name="(老虎机)锦衣卫" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8033" Name="(老虎机)脆爆水果" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8034" Name="(老虎机)幸运金钻" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8035" Name="(老虎机)热带宝藏" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8036" Name="(老虎机)南北狮王" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8037" Name="&#x9;(老虎机)赤龙" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8038" Name="(老虎机)欢乐农场" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8039" Name="(老虎机)同校生" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8040" Name="(老虎机)龙虎" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8041" Name="(老虎机)梦幻女神" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8042" Name="(老虎机)比基尼狂热" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8043" Name="(老虎机)趣怪丧尸" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8044" Name="(老虎机)三星报囍" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8045" Name="(老虎机)过大年" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="8046" Name="(老虎机)打擂台" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="slot游戏" />
-	<Data Key="90" Name="皇冠体育" IsOpen="0" ResType="8" ControlType="0" GameType="6" PlatfromType="体育竞彩" />
-	<Data Key="91" Name="拉法电竞" IsOpen="0" ResType="8" ControlType="0" GameType="6" PlatfromType="暂不知" />
-	<Data Key="92" Name="金老虎机" IsOpen="0" ResType="8" ControlType="0" GameType="7" PlatfromType="老虎机" />
-	<Data Key="93" Name="极限电竞" IsOpen="0" ResType="8" ControlType="0" GameType="7" PlatfromType="暂时不知" />
-	<Data Key="65" Name="血战麻将（房间）积分" IsOpen="0" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="66" Name="血战麻将" IsOpen="0" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="77" Name="上海敲麻(房间)积分" IsOpen="0" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="78" Name="上海敲麻" IsOpen="0" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="94" Name="第一视讯" IsOpen="0" ResType="8" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="9401" Name="第一视讯百家乐" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9402" Name="第一视讯龙虎斗" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9403" Name="第一视讯骰宝" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9404" Name="第一视讯轮盘" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9405" Name="第一视讯包桌百家乐" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9406" Name="第一视讯竞咪百家乐" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9407" Name="第一视讯牛牛" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9408" Name="第一视讯炸金花" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9409" Name="第一视讯斗牛" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="9410" Name="第一视讯二十一点" IsOpen="0" ResType="9" ControlType="0" GameType="8" PlatfromType="真人视讯" />
-	<Data Key="95" Name="国际视讯" IsOpen="0" ResType="8" ControlType="0" GameType="6" PlatfromType="真人视讯" />
-	<Data Key="97" Name="群雄逐鹿" IsOpen="0" ResType="7" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="84" Name="竟咪百家乐" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="100" Name="财神到" IsOpen="0" ResType="4" ControlType="2" GameType="4" PlatfromType="云棋牌" />
-	<Data Key="143" Name="射龙门" IsOpen="0" ResType="2" ControlType="1" GameType="2" PlatfromType="云棋牌" />
-	<Data Key="145" Name="抢庄21点" IsOpen="0" ResType="2" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="148" Name="至尊老虎机" IsOpen="0" ResType="8" ControlType="0" GameType="" PlatfromType="" />
-	<Data Key="149" Name="全民捕鱼" IsOpen="0" ResType="8" ControlType="0" GameType="" PlatfromType="" />
-	<Data Key="150" Name="抢庄二八杠" IsOpen="0" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
-	<Data Key="156" Name="上海敲麻（亲友圈）积分" IsOpen="0" ResType="5" ControlType="2" GameType="1" PlatfromType="云棋牌" />
+	<Data Key="5" Name="百家乐" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="4" Name="百人牛牛" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="3" Name="欢乐骰子" IsOpen="1" ResType="3" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="1" Name="金蟾捕鱼" IsOpen="1" ResType="1" ControlType="0" GameType="3" ClientClassify="3" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="10" Name="黑红梅方" IsOpen="1" ResType="2" ControlType="1" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="14" Name="欢乐至尊" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="16" Name="斗地主" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="17" Name="炸金花" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="12" Name="金鲨银鲨" IsOpen="1" ResType="4" ControlType="1" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="18" Name="抢庄牛牛(换牌)" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="20" Name="水果机" IsOpen="1" ResType="4" ControlType="3" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="21" Name="二人麻将" IsOpen="1" ResType="5" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="22" Name="水浒传" IsOpen="1" ResType="4" ControlType="2" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="24" Name="李逵劈鱼" IsOpen="1" ResType="1" ControlType="0" GameType="3" ClientClassify="3" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="25" Name="大闹天宫" IsOpen="1" ResType="1" ControlType="0" GameType="3" ClientClassify="3" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="27" Name="疯狂捕鱼" IsOpen="1" ResType="1" ControlType="0" GameType="3" ClientClassify="3" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="28" Name="血流麻将" IsOpen="1" ResType="5" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="29" Name="万人德州" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="30" Name="德州扑克" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="31" Name="二八杠" IsOpen="1" ResType="6" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="23" Name="奔驰宝马" IsOpen="1" ResType="4" ControlType="1" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="26" Name="森林舞会" IsOpen="1" ResType="4" ControlType="1" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="32" Name="龙虎斗" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="33" Name="一元夺宝" IsOpen="1" ResType="7" ControlType="2" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="35" Name="推筒子" IsOpen="1" ResType="6" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="34" Name="二人牛牛" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="37" Name="水果缤纷" IsOpen="1" ResType="4" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="38" Name="十三水" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="39" Name="四人牛牛" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="36" Name="通比牛牛" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="40" Name="红黑大战" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="42" Name="多福多财" IsOpen="1" ResType="4" ControlType="2" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="43" Name="豪车汇" IsOpen="1" ResType="4" ControlType="2" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="44" Name="荣耀王者" IsOpen="1" ResType="4" ControlType="2" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="46" Name="九线拉王" IsOpen="1" ResType="4" ControlType="2" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="52" Name="四色球" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="53" Name="豪车大亨" IsOpen="1" ResType="4" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="57" Name="英雄联盟时时彩" IsOpen="1" ResType="7" ControlType="1" GameType="4" ClientClassify="5" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="59" Name="斗牛" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="63" Name="抢庄牛牛(看牌)" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="64" Name="德州牛仔" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="67" Name="抢庄牛牛" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="68" Name="抢庄炸金花" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="72" Name="万条筒" IsOpen="1" ResType="5" ControlType="1" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="73" Name="斗三公" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="74" Name="不洗牌斗地主" IsOpen="1" ResType="2" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="61" Name="神兽之战" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="62" Name="百人三公" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="79" Name="龙虎猜和" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="81" Name="福星推筒子" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="82" Name="赌神推牌九" IsOpen="1" ResType="11" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="56" Name="一球成名" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="83" Name="鱼虾蟹" IsOpen="1" ResType="10" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="85" Name="幸运7" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="41" Name="轮盘" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="54" Name="AK轮盘" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="55" Name="幸运轮" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="71" Name="红包扫雷" IsOpen="1" ResType="7" ControlType="2" GameType="2" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="75" Name="牌九" IsOpen="1" ResType="11" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="101" Name="DOTA时时彩" IsOpen="1" ResType="7" ControlType="1" GameType="2" ClientClassify="5" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="144" Name="暴雪全家桶" IsOpen="1" ResType="7" ControlType="1" GameType="2" ClientClassify="5" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="98" Name="红包乱斗" IsOpen="1" ResType="7" ControlType="2" GameType="2" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="96" Name="王者时时彩" IsOpen="1" ResType="7" ControlType="1" GameType="2" ClientClassify="5" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="66" Name="血战麻将" IsOpen="1" ResType="5" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="78" Name="上海敲麻" IsOpen="1" ResType="5" ControlType="2" GameType="1" ClientClassify="1" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="97" Name="群雄逐鹿" IsOpen="1" ResType="7" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="100" Name="财神到" IsOpen="1" ResType="4" ControlType="2" GameType="4" ClientClassify="4" PlatfromType="云棋牌" ParentId="0" />
+	<Data Key="143" Name="射龙门" IsOpen="1" ResType="2" ControlType="1" GameType="2" ClientClassify="2" PlatfromType="云棋牌" ParentId="0" />
 </Root>

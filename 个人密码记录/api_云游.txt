@@ -24,6 +24,20 @@ api:http://api.nbgametech.com/
 密钥：UZ90vBXGoMVsjnOW
 用途：泛亚测试用
 
+代理ID：4
+渠道ID：173175_1
+密钥：pyj8Tb84cLLUvrtk
+用途：外部展示用
+
+代理ID：5
+渠道ID：527325_1
+密钥：9r4MIucWlHe0dUFq
+用途：Gerry 生产环境
+
+代理ID：6
+渠道ID：198836_1
+密钥：MoujQPbq4aXIKzGr
+用途：Gerry 测试环境
 
 
 

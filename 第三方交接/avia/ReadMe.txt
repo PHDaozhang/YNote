@@ -13,3 +13,7 @@ API URL：https://api.avia-gaming.com
 账号：4418admin 
 密码：w08f6cd58 
 密钥：9fe95e9267eb44c5a85507aded614129
+
+新修改密钥：bc6c025f5d2e413791bdd142ac159a49
+
+第三次更新密钥：14270a78b01b4d6589de87a69a4488da

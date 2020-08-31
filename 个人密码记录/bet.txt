@@ -8,10 +8,14 @@
 
 #运维
 
+::过期start
 研发服jenkins	
 http://18.140.231.140:8080/login?from=%2F
 admin/admin@wsx
+::过期end
 
+新研发服jenkins
+http://18.141.106.185:8080/  admin / admin@wsx
 
 #研发服后台
 https://www.ahfdcw.com/login?redirect=%2FgameManage%2FsonGameManage
