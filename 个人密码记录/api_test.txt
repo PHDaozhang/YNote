@@ -2,25 +2,28 @@
 api:https://api.gametech222.com/
 
 别称：SG 
+钱包类型：转账钱包
 代理ID：3
 渠道ID：973606_1
 密码：OFZKh0Sji7CtYJUx
 
 
-	"Res" : {
-		"all" : "resource2",
-		"hall" : "hall19",
-		"login" : "nover_login_bg"
-	}
-
-
 别称：云游YY
+钱包类型：转账钱包
 代理ID：4
 渠道ID：467934_1
 密码：MmiVS3T1FqtJ7EXQ
 
-"Res" : {
-		"login" : "nover_login_bgYY",
-		"hall" : "hall20"
-	}
 
+别称：云游，第三使用 
+钱包类型：伪单一钱包
+代理ID：6
+渠道ID：703921_1
+密码：hQlvKMmFu4w7Suj9
+
+
+别称：云游YY
+钱包类型：伪单一钱包
+代理ID：7
+渠道ID：759668_1
+密码：D617ulSnVmhpDklK

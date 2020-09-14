@@ -7,6 +7,7 @@ api:http://api.nbgametech.com/
 
 
 代理ID：1
+钱包类型：转账钱包
 渠道ID：238900_1
 密钥：AfjFRFMyo9C3SxhI
 用途：我方测试用
@@ -14,30 +15,48 @@ api:http://api.nbgametech.com/
 
 
 代理ID：2
+钱包类型：转账钱包
 渠道ID：603715_1
 密钥：Cl5nDDqsXf2YdEX2
 用途：泛亚正式用
 
 
 代理ID：3
+钱包类型：转账钱包
 渠道ID：292379_1
 密钥：UZ90vBXGoMVsjnOW
 用途：泛亚测试用
 
 代理ID：4
+钱包类型：转账钱包
 渠道ID：173175_1
 密钥：pyj8Tb84cLLUvrtk
 用途：外部展示用
 
 代理ID：5
+钱包类型：转账钱包
 渠道ID：527325_1
 密钥：9r4MIucWlHe0dUFq
 用途：Gerry 生产环境
 
 代理ID：6
+钱包类型：转账钱包
 渠道ID：198836_1
 密钥：MoujQPbq4aXIKzGr
 用途：Gerry 测试环境
+
+
+代理ID：7
+钱包类型：中心钱包
+渠道ID：656240_1 
+密钥：AsKSUjn1v12qrRpp
+用途：中心钱包我方测试用
+
+代理ID：8
+钱包类型：中心钱包
+渠道ID：465599_1
+密钥：SjN9ZBcPShDTfzsx 
+用途：中心钱包云游方测试用
 
 
 
